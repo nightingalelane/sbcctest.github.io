@@ -1,0 +1,50 @@
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 960px;
+}
+
+.membership-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.jumbotron{
+    background-color:#22415e;
+    color:#fff;
+}
+.jumbotron{
+    background-color:#22415e;
+    color:#fff;
+}
+
+.jumbotron-white{
+    background-color:#ffffff;
+    color:#000000;
+}
+
+.alert-general {
+
+    background-color:#4682B4;
+    color:#fff;
+}
+.alert-officer {
+
+    background-color:#606060;
+    color:#fff;
+}
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+

@@ -214,17 +214,24 @@ html {
 .alert-general {
 
     background-color:#4682B4;
-    color:#fff;
+    color:#ffffff;
 }
 .alert-officer {
 
-    background-color:#2d5986;
-    color:#fff;
+    background-color:#336699;/*#2d5986;*/
+    color:#ffffff;
 }
+.mobile {
 
-.email {
-    color: #ffd9b3;
+    font-weight: 700 !important;
+    color: #ffffff;
+   background-color: #002233;
 }
+.email {
+    color: #ffffff;
+}
+.section-break { border-top: 2px dotted #336699; }
+
 .border-top { border-top: 1px solid #e5e5e5; }
 .border-bottom { border-bottom: 1px solid #e5e5e5; }
 
@@ -271,10 +278,11 @@ html {
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
 }
 .breadcrumb {
-  --bs-breadcrumb-divider-color: var(--bs-orange);
+  --bs-breadcrumb-divider-color:  #003300;
 }  
 .breadcrumb-item  > a {
          
-    background-color: #2d5986;
-    color: #f8f9fa; 
+    font-weight: 700 !important;
+   /* background-color: #ffffcc;*/
+    color: #003300;  
 }

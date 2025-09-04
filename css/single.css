@@ -218,7 +218,7 @@ html {
 }
 .alert-officer {
 
-    background-color:#2d5986;
+    background-color:#282828; /*#2d5986;*/
     color:#fff;
 }
 .border-top { border-top: 1px solid #e5e5e5; }
